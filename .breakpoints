@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "Tabelle_Luegendetektor.xlsx": [
+      {
+        "id": "def70f5a-f683-46c4-9964-d36f668ceb5c",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
 }
